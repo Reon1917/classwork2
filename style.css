@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    vertical-align: middle;
+}
+.text-content {
+    padding-left: 20px; /* Adjust spacing between image and text as needed */
+    width: 50%;
+}
+
+.image-content{
+    border-radius: 50%;
+    width: 50%;
+    text-align: center;
+}
+
+
